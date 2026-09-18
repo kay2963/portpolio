@@ -1,0 +1,7 @@
+# 도구/에디터 메타데이터
+.freebuff/
+.tmp_clone/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
